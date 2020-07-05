@@ -39,7 +39,7 @@ for pets in mailing_list:
 
 def name_generator():
     name_list = []
-    for i in range(3):
+    for index in range(3):
         name = input("Enter a name: ")
         name_list.append(name)
     print(name_list)
