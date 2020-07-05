@@ -1,6 +1,6 @@
 # lists
 #Q1
-"""
+
 foods = [
     "orange",
     "apple",
@@ -46,7 +46,7 @@ def name_generator():
     
 name_generator()
 
-"""
+
 
 #Q4
 sentence = input("Write me a sentence!: ")
